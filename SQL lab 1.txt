@@ -1,0 +1,16 @@
+SQL lab 1
+=========
+--Refer to the schema from our lecture slides.
+--Submit one .sql file that contains solutions to all four problems.
+--You may do it in a group of 2. If so, clearly mark your group memebers and one submission only. 
+
+
+1. Find the names of customers who live in cities with names ending in "on".
+2. Find the names and cities of customers who have an account at "Downtown" branch.
+3. Print in descending order the names of customer who have a loan balance between 1000 and 2000.
+4. Find the names of customers who have an account or a loan.
+
+Answers to the above queries can be seen in iamges attached.
+
+For solutions, kindly email us at
+ahacademicians@gmail.com
