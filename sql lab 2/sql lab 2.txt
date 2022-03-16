@@ -1,0 +1,12 @@
+SQL Lab 2
+=========
+ 
+1. Find the average account balance at the "Perryridge" branch.
+2. Find branches(i.e. branch_name) with average account balance above 700.
+3. Find the number of unique depositors for each branch. 
+4. Find the customers who have two accounts.
+5. Find the name and average balance for customers who live in Harrison and have at least 2 accounts.
+
+for solution of above mentioned queries
+email us ahacademicians@gmail.com 
+or whatsapp us at +923304579729
